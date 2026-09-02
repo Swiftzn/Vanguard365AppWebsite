@@ -70,8 +70,6 @@ needed, and nothing in this site repo has to be touched or redeployed.
 
 ## Before going live — placeholders to fill in
 
-- [ ] Pricing on `apps/docx-to-pdf-converter/index.html` (`#pricing` section)
-      — the £19 figure is a placeholder, set it to your actual price
 - [ ] `support@vanguard365.co.uk` — set up this mailbox, or swap the address
       used across both pages and the footer
 - [ ] `assets/img/og-default.png` and `assets/img/og-docx-to-pdf.png` — social
