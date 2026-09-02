@@ -1,9 +1,0 @@
-# Cloudflare Pages redirects
-# Stable download link — update the GITHUB_USER/REPO below once the release repo exists.
-# Keep the uploaded release asset named exactly "DocxToPdfConverter-Setup.exe" on every
-# release (rename it at upload time even though the local build has the version in the
-# name) so this /latest/download/ URL never needs to change.
-/download/docx-to-pdf-converter https://github.com/Swiftzn/BatchConvertPDF-Releases/releases/latest/download/DocxToPdfConverter-Setup.exe 302
-
-# Trailing-slash friendly app URLs
-/apps/docx-to-pdf /apps/docx-to-pdf-converter/ 301
